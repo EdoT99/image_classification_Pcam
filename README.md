@@ -7,7 +7,7 @@
 
 
 
-This project concerns the creation of a CNN for a binary image classification task using the CMAP dataset (link) 
+This project concerns the creation of a CNN for a binary image classification task using the CMAP dataset (https://drive.google.com/drive/folders/1gHou49cA1s5vua2V5L98Lt8TiWA3FrKB?usp=sharing) 
 
 
 
